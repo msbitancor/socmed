@@ -1,10 +1,8 @@
-# Project Social Media App
+# Simple Social Media App
 ### Bitancor, Marlon S.
-### 2019 - 02087
-### X-4L
 
 ### App Overview
-> This is a simple social media application that lets the user do basic features such as account registration, login, logout, view the news
+This is a simple social media application that lets the user do basic features such as account registration, login, logout, view the news
 feed, create a post, and such. The app also consists of a sidebar for navigation through the whole application.
 
 ### App features
